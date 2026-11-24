@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Development-only configuration for trusted Tailscale networking.
+  Allows HTTP because the current Android FlClient uses http://100.x.y.z:8000.
+  Tailscale encrypts transport between authorized devices, but allowing all
+  cleartext domains in this app is not appropriate for a production release.
+  Prefer HTTPS via Tailscale Serve for any public or long-term deployment.
+-->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true" />
+</network-security-config>
