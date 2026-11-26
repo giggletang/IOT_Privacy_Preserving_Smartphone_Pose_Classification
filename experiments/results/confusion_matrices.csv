@@ -1,0 +1,193 @@
+config,model,device,condition,true_pose,pred_0,pred_1,pred_2,pred_3,pred_4,pred_5
+BASELINE,Local A,A,Test,0,61,0,0,0,0,0
+BASELINE,Local A,A,Test,1,0,63,0,0,0,0
+BASELINE,Local A,A,Test,2,0,0,60,0,0,0
+BASELINE,Local A,A,Test,3,60,0,0,0,0,0
+BASELINE,Local A,A,Test,4,60,0,0,0,0,0
+BASELINE,Local A,A,Test,5,0,60,0,0,0,0
+BASELINE,Local A,A,Standard,0,20,0,0,0,0,0
+BASELINE,Local A,A,Standard,1,0,21,0,0,0,0
+BASELINE,Local A,A,Standard,2,0,0,20,0,0,0
+BASELINE,Local A,A,Standard,3,20,0,0,0,0,0
+BASELINE,Local A,A,Standard,4,20,0,0,0,0,0
+BASELINE,Local A,A,Standard,5,0,21,0,0,0,0
+BASELINE,Local A,A,Tilt,0,20,0,0,0,0,0
+BASELINE,Local A,A,Tilt,1,0,20,0,0,0,0
+BASELINE,Local A,A,Tilt,2,0,0,20,0,0,0
+BASELINE,Local A,A,Tilt,3,20,0,0,0,0,0
+BASELINE,Local A,A,Tilt,4,20,0,0,0,0,0
+BASELINE,Local A,A,Tilt,5,20,0,0,0,0,0
+BASELINE,Local A,A,Shake,0,20,0,0,0,0,0
+BASELINE,Local A,A,Shake,1,0,21,0,0,0,0
+BASELINE,Local A,A,Shake,2,0,0,20,0,0,0
+BASELINE,Local A,A,Shake,3,24,0,0,0,0,0
+BASELINE,Local A,A,Shake,4,20,0,0,0,0,0
+BASELINE,Local A,A,Shake,5,0,21,0,0,0,0
+BASELINE,Global,A,Test,0,61,0,0,0,0,0
+BASELINE,Global,A,Test,1,0,63,0,0,0,0
+BASELINE,Global,A,Test,2,0,0,60,0,0,0
+BASELINE,Global,A,Test,3,0,0,0,60,0,0
+BASELINE,Global,A,Test,4,0,0,0,0,60,0
+BASELINE,Global,A,Test,5,0,0,0,0,0,60
+BASELINE,Global,A,Standard,0,20,0,0,0,0,0
+BASELINE,Global,A,Standard,1,0,21,0,0,0,0
+BASELINE,Global,A,Standard,2,0,0,20,0,0,0
+BASELINE,Global,A,Standard,3,0,0,0,20,0,0
+BASELINE,Global,A,Standard,4,0,0,0,0,20,0
+BASELINE,Global,A,Standard,5,0,0,0,0,0,21
+BASELINE,Global,A,Tilt,0,20,0,0,0,0,0
+BASELINE,Global,A,Tilt,1,0,20,0,0,0,0
+BASELINE,Global,A,Tilt,2,0,0,20,0,0,0
+BASELINE,Global,A,Tilt,3,0,0,0,20,0,0
+BASELINE,Global,A,Tilt,4,0,0,0,0,20,0
+BASELINE,Global,A,Tilt,5,0,0,0,0,0,20
+BASELINE,Global,A,Shake,0,20,0,0,0,0,0
+BASELINE,Global,A,Shake,1,0,21,0,0,0,0
+BASELINE,Global,A,Shake,2,0,0,20,0,0,0
+BASELINE,Global,A,Shake,3,0,0,0,24,0,0
+BASELINE,Global,A,Shake,4,0,0,0,0,20,0
+BASELINE,Global,A,Shake,5,0,0,0,0,0,21
+BASELINE,Local B,B,Test,0,0,0,0,40,20,0
+BASELINE,Local B,B,Test,1,0,0,0,0,0,61
+BASELINE,Local B,B,Test,2,0,0,0,0,0,60
+BASELINE,Local B,B,Test,3,0,0,0,60,0,0
+BASELINE,Local B,B,Test,4,0,0,0,0,61,0
+BASELINE,Local B,B,Test,5,0,0,0,0,0,59
+BASELINE,Local B,B,Standard,0,0,0,0,0,19,0
+BASELINE,Local B,B,Standard,1,0,0,0,0,0,20
+BASELINE,Local B,B,Standard,2,0,0,0,0,0,20
+BASELINE,Local B,B,Standard,3,0,0,0,20,0,0
+BASELINE,Local B,B,Standard,4,0,0,0,0,20,0
+BASELINE,Local B,B,Standard,5,0,0,0,0,0,20
+BASELINE,Local B,B,Tilt,0,0,0,0,0,20,0
+BASELINE,Local B,B,Tilt,1,0,0,0,0,0,20
+BASELINE,Local B,B,Tilt,2,0,0,0,0,0,20
+BASELINE,Local B,B,Tilt,3,0,0,0,20,0,0
+BASELINE,Local B,B,Tilt,4,0,0,0,0,20,0
+BASELINE,Local B,B,Tilt,5,0,0,0,0,0,20
+BASELINE,Local B,B,Shake,0,0,0,0,0,21,0
+BASELINE,Local B,B,Shake,1,0,0,0,0,1,25
+BASELINE,Local B,B,Shake,2,0,0,0,0,0,20
+BASELINE,Local B,B,Shake,3,0,0,0,20,0,0
+BASELINE,Local B,B,Shake,4,0,0,0,0,20,0
+BASELINE,Local B,B,Shake,5,0,0,0,0,0,20
+BASELINE,Global,B,Test,0,60,0,0,0,0,0
+BASELINE,Global,B,Test,1,0,61,0,0,0,0
+BASELINE,Global,B,Test,2,0,0,60,0,0,0
+BASELINE,Global,B,Test,3,0,0,0,60,0,0
+BASELINE,Global,B,Test,4,0,0,0,0,61,0
+BASELINE,Global,B,Test,5,0,0,0,0,0,59
+BASELINE,Global,B,Standard,0,19,0,0,0,0,0
+BASELINE,Global,B,Standard,1,0,20,0,0,0,0
+BASELINE,Global,B,Standard,2,0,0,20,0,0,0
+BASELINE,Global,B,Standard,3,0,0,0,20,0,0
+BASELINE,Global,B,Standard,4,0,0,0,0,20,0
+BASELINE,Global,B,Standard,5,0,0,0,0,0,20
+BASELINE,Global,B,Tilt,0,20,0,0,0,0,0
+BASELINE,Global,B,Tilt,1,0,20,0,0,0,0
+BASELINE,Global,B,Tilt,2,0,0,20,0,0,0
+BASELINE,Global,B,Tilt,3,0,0,0,20,0,0
+BASELINE,Global,B,Tilt,4,0,0,0,0,20,0
+BASELINE,Global,B,Tilt,5,0,0,0,0,0,20
+BASELINE,Global,B,Shake,0,21,0,0,0,0,0
+BASELINE,Global,B,Shake,1,0,26,0,0,0,0
+BASELINE,Global,B,Shake,2,0,0,20,0,0,0
+BASELINE,Global,B,Shake,3,0,0,0,20,0,0
+BASELINE,Global,B,Shake,4,0,0,0,0,20,0
+BASELINE,Global,B,Shake,5,0,0,0,0,0,20
+GRAV_NORM,Local A,A,Test,0,61,0,0,0,0,0
+GRAV_NORM,Local A,A,Test,1,0,63,0,0,0,0
+GRAV_NORM,Local A,A,Test,2,0,0,60,0,0,0
+GRAV_NORM,Local A,A,Test,3,60,0,0,0,0,0
+GRAV_NORM,Local A,A,Test,4,60,0,0,0,0,0
+GRAV_NORM,Local A,A,Test,5,20,40,0,0,0,0
+GRAV_NORM,Local A,A,Standard,0,20,0,0,0,0,0
+GRAV_NORM,Local A,A,Standard,1,0,21,0,0,0,0
+GRAV_NORM,Local A,A,Standard,2,0,0,20,0,0,0
+GRAV_NORM,Local A,A,Standard,3,20,0,0,0,0,0
+GRAV_NORM,Local A,A,Standard,4,20,0,0,0,0,0
+GRAV_NORM,Local A,A,Standard,5,0,21,0,0,0,0
+GRAV_NORM,Local A,A,Tilt,0,20,0,0,0,0,0
+GRAV_NORM,Local A,A,Tilt,1,0,20,0,0,0,0
+GRAV_NORM,Local A,A,Tilt,2,0,0,20,0,0,0
+GRAV_NORM,Local A,A,Tilt,3,20,0,0,0,0,0
+GRAV_NORM,Local A,A,Tilt,4,20,0,0,0,0,0
+GRAV_NORM,Local A,A,Tilt,5,20,0,0,0,0,0
+GRAV_NORM,Local A,A,Shake,0,20,0,0,0,0,0
+GRAV_NORM,Local A,A,Shake,1,0,21,0,0,0,0
+GRAV_NORM,Local A,A,Shake,2,0,0,20,0,0,0
+GRAV_NORM,Local A,A,Shake,3,24,0,0,0,0,0
+GRAV_NORM,Local A,A,Shake,4,17,3,0,0,0,0
+GRAV_NORM,Local A,A,Shake,5,0,21,0,0,0,0
+GRAV_NORM,Global,A,Test,0,61,0,0,0,0,0
+GRAV_NORM,Global,A,Test,1,0,63,0,0,0,0
+GRAV_NORM,Global,A,Test,2,0,0,60,0,0,0
+GRAV_NORM,Global,A,Test,3,0,0,0,60,0,0
+GRAV_NORM,Global,A,Test,4,0,0,0,0,60,0
+GRAV_NORM,Global,A,Test,5,0,0,0,0,0,60
+GRAV_NORM,Global,A,Standard,0,20,0,0,0,0,0
+GRAV_NORM,Global,A,Standard,1,0,21,0,0,0,0
+GRAV_NORM,Global,A,Standard,2,0,0,20,0,0,0
+GRAV_NORM,Global,A,Standard,3,0,0,0,20,0,0
+GRAV_NORM,Global,A,Standard,4,0,0,0,0,20,0
+GRAV_NORM,Global,A,Standard,5,0,0,0,0,0,21
+GRAV_NORM,Global,A,Tilt,0,20,0,0,0,0,0
+GRAV_NORM,Global,A,Tilt,1,0,20,0,0,0,0
+GRAV_NORM,Global,A,Tilt,2,0,0,20,0,0,0
+GRAV_NORM,Global,A,Tilt,3,0,0,0,20,0,0
+GRAV_NORM,Global,A,Tilt,4,0,0,0,0,20,0
+GRAV_NORM,Global,A,Tilt,5,0,0,0,0,0,20
+GRAV_NORM,Global,A,Shake,0,20,0,0,0,0,0
+GRAV_NORM,Global,A,Shake,1,0,21,0,0,0,0
+GRAV_NORM,Global,A,Shake,2,0,0,20,0,0,0
+GRAV_NORM,Global,A,Shake,3,0,0,0,24,0,0
+GRAV_NORM,Global,A,Shake,4,0,0,0,0,20,0
+GRAV_NORM,Global,A,Shake,5,0,0,0,0,0,21
+GRAV_NORM,Local B,B,Test,0,0,0,0,0,0,60
+GRAV_NORM,Local B,B,Test,1,0,0,0,0,61,0
+GRAV_NORM,Local B,B,Test,2,0,0,0,0,18,42
+GRAV_NORM,Local B,B,Test,3,0,0,0,60,0,0
+GRAV_NORM,Local B,B,Test,4,0,0,0,0,61,0
+GRAV_NORM,Local B,B,Test,5,0,0,0,0,0,59
+GRAV_NORM,Local B,B,Standard,0,0,0,0,0,0,19
+GRAV_NORM,Local B,B,Standard,1,0,0,0,0,20,0
+GRAV_NORM,Local B,B,Standard,2,0,0,0,0,0,20
+GRAV_NORM,Local B,B,Standard,3,0,0,0,20,0,0
+GRAV_NORM,Local B,B,Standard,4,0,0,0,0,20,0
+GRAV_NORM,Local B,B,Standard,5,0,0,0,0,0,20
+GRAV_NORM,Local B,B,Tilt,0,0,0,0,0,0,20
+GRAV_NORM,Local B,B,Tilt,1,0,0,0,0,20,0
+GRAV_NORM,Local B,B,Tilt,2,0,0,0,0,0,20
+GRAV_NORM,Local B,B,Tilt,3,0,0,0,20,0,0
+GRAV_NORM,Local B,B,Tilt,4,0,0,0,0,20,0
+GRAV_NORM,Local B,B,Tilt,5,0,0,0,0,0,20
+GRAV_NORM,Local B,B,Shake,0,0,0,0,0,1,20
+GRAV_NORM,Local B,B,Shake,1,0,0,0,0,26,0
+GRAV_NORM,Local B,B,Shake,2,0,0,0,0,12,8
+GRAV_NORM,Local B,B,Shake,3,0,0,0,20,0,0
+GRAV_NORM,Local B,B,Shake,4,0,0,0,0,20,0
+GRAV_NORM,Local B,B,Shake,5,0,0,0,0,0,20
+GRAV_NORM,Global,B,Test,0,60,0,0,0,0,0
+GRAV_NORM,Global,B,Test,1,0,61,0,0,0,0
+GRAV_NORM,Global,B,Test,2,0,0,60,0,0,0
+GRAV_NORM,Global,B,Test,3,0,0,0,60,0,0
+GRAV_NORM,Global,B,Test,4,0,0,0,0,61,0
+GRAV_NORM,Global,B,Test,5,0,0,0,0,0,59
+GRAV_NORM,Global,B,Standard,0,19,0,0,0,0,0
+GRAV_NORM,Global,B,Standard,1,0,20,0,0,0,0
+GRAV_NORM,Global,B,Standard,2,0,0,20,0,0,0
+GRAV_NORM,Global,B,Standard,3,0,0,0,20,0,0
+GRAV_NORM,Global,B,Standard,4,0,0,0,0,20,0
+GRAV_NORM,Global,B,Standard,5,0,0,0,0,0,20
+GRAV_NORM,Global,B,Tilt,0,20,0,0,0,0,0
+GRAV_NORM,Global,B,Tilt,1,0,20,0,0,0,0
+GRAV_NORM,Global,B,Tilt,2,0,0,20,0,0,0
+GRAV_NORM,Global,B,Tilt,3,0,0,0,20,0,0
+GRAV_NORM,Global,B,Tilt,4,0,0,0,0,20,0
+GRAV_NORM,Global,B,Tilt,5,0,0,0,0,0,20
+GRAV_NORM,Global,B,Shake,0,21,0,0,0,0,0
+GRAV_NORM,Global,B,Shake,1,0,26,0,0,0,0
+GRAV_NORM,Global,B,Shake,2,0,0,20,0,0,0
+GRAV_NORM,Global,B,Shake,3,0,0,0,20,0,0
+GRAV_NORM,Global,B,Shake,4,0,0,0,0,20,0
+GRAV_NORM,Global,B,Shake,5,0,0,0,0,0,20

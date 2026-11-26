@@ -1,0 +1,17 @@
+device,condition,model,samples,correct,accuracy_percent,macro_f1
+A,Test,Local A,364,184,50.5495,0.370781
+A,Test,Global 21,364,364,100.0,1.0
+A,cal01,Local A,122,61,50.0,0.361111
+A,cal01,Global 21,122,122,100.0,1.0
+A,tilt01,Local A,120,60,50.0,0.4
+A,tilt01,Global 21,120,120,100.0,1.0
+A,shake01,Local A,126,61,48.4127,0.355032
+A,shake01,Global 21,126,126,100.0,1.0
+B,Test,Local B,361,180,49.8615,0.357221
+B,Test,Global 21,361,361,100.0,1.0
+B,cal01,Local B,119,60,50.4202,0.362166
+B,cal01,Global 21,119,119,100.0,1.0
+B,tilt01,Local B,120,60,50.0,0.361111
+B,tilt01,Global 21,120,120,100.0,1.0
+B,shake01,Local B,127,60,47.2441,0.349094
+B,shake01,Global 21,127,127,100.0,1.0

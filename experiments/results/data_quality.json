@@ -1,0 +1,25 @@
+{
+  "A": {
+    "valid_rows": 912,
+    "issues": [],
+    "split_counts": {
+      "train": 180,
+      "test": 364,
+      "calib": 368
+    }
+  },
+  "B": {
+    "valid_rows": 911,
+    "issues": [
+      [
+        546,
+        "Expected 17 fields, got 33"
+      ]
+    ],
+    "split_counts": {
+      "train": 184,
+      "test": 361,
+      "calib": 366
+    }
+  }
+}
